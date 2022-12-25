@@ -286,7 +286,6 @@ body{
     }
     .header{
         width: auto;
-        background: url(/img/header-img.jpg) no-repeat center top / cover;
     }
     .nav{
         display: flex;
@@ -359,7 +358,6 @@ body{
 @media screen and (max-width: 768px){
     .header{
         width: auto;
-        background: url(/img/header-img.jpg) no-repeat center top / cover;
     }
     .menu{
         display: block;
